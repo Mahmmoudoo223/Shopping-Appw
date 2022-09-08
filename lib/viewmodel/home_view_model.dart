@@ -1,5 +1,4 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:ecommerce/model/categoriesModel.dart';
 import 'package:ecommerce/model/category_model.dart';
 import 'package:ecommerce/model/product_moidel.dart';
 import 'package:ecommerce/services/home_services.dart';
